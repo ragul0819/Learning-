@@ -18,7 +18,7 @@ A simple web application to create, edit, and delete notes. Built with React.js 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Vasanth-192121/notes-web-app.git
+   git clone https://github.com/ragul0819/notes-web-app.git
 
 2. Navigate to the project directory:
     cd Notes Application
